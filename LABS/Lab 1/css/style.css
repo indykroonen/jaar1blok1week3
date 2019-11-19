@@ -1,0 +1,25 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	background-color: lightblue;
+}
+#container {
+	border: 2px solid black;
+	margin: 0 auto;
+	width: 1000px;
+	padding: 15px;
+	background-color: lightblue;
+	overflow: auto;
+}
+img[src="../images/vloot2.jpg"] {
+	float: right; 
+	padding: 5px;
+}
+img[src="../images/vloot1.jpg"] {
+	float: left; 
+	padding: 5px;
+}
+img[src="../images/vloot3.jpg"] {
+	float: left; 
+	padding: 5px;
+}
